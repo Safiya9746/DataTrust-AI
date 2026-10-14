@@ -88,3 +88,10 @@ Example event body:
 4. Add an evaluation set of representative datasets and track correctness.
 5. Add infrastructure-as-code and a deployment walkthrough.
 6. Capture screenshots and a short demo video of the actual deployed application.
+
+Project Links
+
+GitHub Repository: https://github.com/Safiya9746/DataTrust-AI
+
+AWS Builder Center Article: https://builder.aws.com/content/3KVI0KJs2MBzZLTLKm52XnL7hjL/datatrust-ai-an-evidence-driven-agent-for-data-quality-and-ml-readiness
+
